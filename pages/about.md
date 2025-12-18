@@ -4,6 +4,19 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Mi historia
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Soy diseñador gráfico en formación con enfoque en diseño gráfico y publicitario. Me interesa la comunicación visual, la ilustración digital y el desarrollo de piezas creativas que conecten con las personas.
+
+Trabajo en proyectos de diseño e ilustración, desarrollando identidades visuales, piezas gráficas y contenidos digitales. Me gusta experimentar con color, tipografía y composición, y presentar mis proyectos de forma clara y funcional.
+
+Actualmente estoy construyendo mi portafolio profesional y busco oportunidades para seguir creciendo como diseñador, ya sea en proyectos freelance, prácticas o colaboraciones creativas.
+
+**Herramientas principales**
+-  Adobe 🅿️hotoshop
+
+- Adobe Illustrator 🎨
+
+- Adobe After Effects 🎬
+
+- Adobe Premiere 🎞️

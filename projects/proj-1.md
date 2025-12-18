@@ -1,9 +1,24 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Photoshop'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+En esta sección encontrarás mi trabajo especializado en Adobe Photoshop, donde combino técnicas avanzadas de edición con un ojo artístico para crear resultados profesionales y impactantes.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+Mis proyectos en Photoshop abarcan desde la restauración de imágenes antiguas hasta la creación de contenido visual para plataformas digitales. Cada proyecto es una oportunidad para demostrar mi habilidad en manipulación de capas, corrección de color, retoque detallado y creación de composiciones visuales atractivas.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+*Ejemplos destacados:*
+
+- Restauración de imágenes: Recuperación de detalles en fotografías antiguas o dañadas mediante técnicas avanzadas de reparación de texturas y eliminación de imperfecciones
+![Descripción de la imagen]({{ site.baseurl }}/assets/img/projects/proj-1/FOTOANTIGUA-retaurada.png)
+
+- Miniaturas para YouTube: Diseño de contenido visual atractivo que aumenta el engagement y el clic-through rate, como el ejemplo del buceo con tiburón que combina elementos fotográficos y gráficos con efectos visuales dinámicos
+![Descripción de la imagen]({{ site.baseurl }}/assets/img/projects/proj-1/MINIPALYUTU-JUAN.png)
+
+- Retoque fotográfico profesional: Trabajo detallado en piel, eliminación de imperfecciones y mejora de características faciales manteniendo la naturalidad del sujeto, como se muestra en el antes y después de tratamiento de acné
+![Descripción de la imagen]({{ site.baseurl }}/assets/img/projects/proj-1/Retoque_fotografico.png)
+
+- Colorización digital: Transformación de imágenes en blanco y negro a color con atención al realismo y coherencia cromática, preservando la esencia de la fotografía original
+![Descripción de la imagen]({{ site.baseurl }}/assets/img/projects/proj-1/ROSTRO.JPG)
+![Descripción de la imagen]({{ site.baseurl }}/assets/img/projects/proj-1/ROSTRO_COLOR.png)
+
+Cada proyecto refleja mi compromiso con la calidad y mi capacidad para adaptar mi estilo a las necesidades específicas de cada cliente o proyecto, siempre buscando resultados que superen las expectativas.
